@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**qrlk/qrlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on my first serious full-fledged web project: an **[adwhore.net](https://github.com/qrlk/adwhore.net)**'s successor.
 
-Here are some ideas to get you started:
+In recent years, I have created more than 40 pet projects. Most of them are hosted here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my public projects are related to the GTA SAMP and browser extensions.
+
+### Social
+- [telegram](https://t.me/qrluke)
+- hi@qrlk.me
+- [keybase](https://keybase.io/qrlk)
+- [ask.fm](https://ask.fm/qrluke)
+  - You can ask an anonymous question about me or my projects.
+  - Make sure to disable email notifications if you are curious enough to register there.
+
+P.S. I'm not into mainstream social media, you won't find me there.
