@@ -6,7 +6,7 @@ I studied software engineering but now I'm more focused on fullstack web develop
 
 In recent years, I have created more than 40 pet projects. Most of them are hosted here.
 
-Most of my public projects are related to the GTA SAMP.
+Most of my public projects are related to the GTA SA-MP.
 
 ### Social
 - **[telegram](https://t.me/qrluke)** | **hi@qrlk.me** | **[keybase](https://keybase.io/qrlk)**
