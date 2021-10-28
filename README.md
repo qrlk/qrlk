@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I studied software engineering but now I'm more focused on fullstack web development.
-
 I'm currently working on my first serious full-fledged web project: an **[adwhore.net](https://github.com/qrlk/adwhore.net)**'s successor.
+
+I studied software engineering but now I'm more focused on fullstack web development.
 
 In recent years, I have created more than 40 pet projects. Most of them are hosted here.
 
