@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a 21 y.o. programmer from St. Petersburg, Russia.
+
 I'm currently working on my first serious full-fledged web project: the **[adwhore.net](https://github.com/qrlk/adwhore.net)**'s successor.
 
 I studied software engineering in the past but now I'm more focused on fullstack web development.
