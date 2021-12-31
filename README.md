@@ -9,6 +9,6 @@ I studied software engineering in the past but now I'm more focused on learning 
 I use github to host my open source projects.
 
 ### Contact
-- **[telegram](https://t.me/qrluke)** | **hi@qrlk.me** | **[blast.hk](https://www.blast.hk/members/156833/) | **[keybase](https://keybase.io/qrlk)**
+- **[telegram](https://t.me/qrluke)** | **hi@qrlk.me** | **[blast.hk](https://www.blast.hk/members/156833/)** | **[keybase](https://keybase.io/qrlk)**
 
 P.S. I'm not into mainstream social media, you probably won't find me there.
