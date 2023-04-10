@@ -5,4 +5,4 @@ I'm currently working on my first serious full-fledged web project: the **[adwho
 I use github to host my few open source projects.
 
 ### Contact
-- **[telegram](https://t.me/qrluke)** | **qrluke@proton.me** | **[keybase](https://keybase.io/qrlk)**
+- **qrluke@proton.me** | **[telegram](https://t.me/qrluke)** | **[keybase](https://keybase.io/qrlk)**
